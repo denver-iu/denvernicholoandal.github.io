@@ -19,11 +19,11 @@ h2 {
 }
 h3 {
   background-color: #1e1e1e;
-  padding: 10px 50px;
+  padding: 10px 20px;
 }
 div {
   text-align: left;
-  line-height: 125%;
+  line-height: 110%;
 }
 h4 {
   border-left: 7.5px solid #ed642b;
@@ -44,7 +44,7 @@ a {
 	font-weight:bold;
 }
 a:hover {
-	color: yellow;
+	color: #FFD581;
 	font-weight:bold;
 }
 a:active{
@@ -54,8 +54,8 @@ a:link {
 	text-decoration:none;
 }
 img {
-	width:30%;
-	height:30%;
+	width: 30%;
+	height: 30%;
 	background-color: #1e1e1e;
 	padding: 20px 20px;
 	border-radius: 20px;
